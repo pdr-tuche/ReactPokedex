@@ -5,8 +5,8 @@ Este projeto foi espelhado do vídeo do [Leonardo Araujo](https://github.com/Leo
 
 Link do vídeo 👉 [Criando uma Pokédex com React.JS e PokeAPI](https://www.youtube.com/watch?v=dqMae44pEVk&t=6s&ab_channel=LeoUjo)
 
-## features (dever de casa)
-- [ ] implementar busca com letras maiusculas e minusculas.
+## Features (dever de casa)
+- [x] implementar busca com letras maiusculas e minusculas. [#1](https://github.com/pdr-tuche/ReactPokedex/pull/2)
 - [ ] ao apagar letras do campo de busca, ir atualizando os cards conforme as letras restantes
 - [ ] criar pagina de detail do pokemon
 
