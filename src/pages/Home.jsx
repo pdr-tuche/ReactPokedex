@@ -27,12 +27,13 @@ export default function Home() {
     }
 
     const pokemonFilter = (name) => {
+        var nameLowerCase = name.toLowerCase()
         var filteredPokemons = []
-        if(name ===""){
+        if(nameLowerCase ===""){
             getPokemons()
         }
         for( var i in pokemons){
-            if(pokemons[i].data.name.includes(name)){
+            if(pokemons[i].data.name.includes(nameLowerCase)){
                 filteredPokemons.push(pokemons[i])
             }
         }
