@@ -7,6 +7,7 @@ Link do vídeo 👉 [Criando uma Pokédex com React.JS e PokeAPI](https://www.yo
 
 ## features (dever de casa)
 - [ ] implementar busca com letras maiusculas e minusculas.
+- [ ] ao apagar letras do campo de busca, ir atualizando os cards conforme as letras restantes
 - [ ] criar pagina de detail do pokemon
 
 
